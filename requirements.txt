@@ -33,7 +33,7 @@ urllib3==2.2.3
 virtualenv==20.26.6
 weasyprint==62.3
 webencodings==0.5.1
-Werkzeug==3.0.4
+Werkzeug==3.0.6
 wheel==0.44.0
 xmltodict==0.13.0
 zopfli==0.2.3
